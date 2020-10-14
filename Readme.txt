@@ -1,4 +1,4 @@
-Steps to deploy on localhost
+Steps to deploy on linux based server
 
 1. Download the Source code as ZIP and extract using Winrar.
 
