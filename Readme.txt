@@ -1,3 +1,5 @@
+Steps to deploy on localhost
+
 1. Download the Source code as ZIP and extract using Winrar.
 
 2. Open the project in any development studio, preferably Visual Studio.
@@ -18,5 +20,21 @@
    7. d). Read Product(Use id of any product to get that product)
    7. e). Read all products
 
+Steps to deploy on Heroku Server
 
+1. Initalize an empty git repository. --git init 
 
+2. Add files in the repsitory.  --git add .
+
+3. Make commits. --git commit -m "m"
+
+4. Create repository in your github and push the data. 
+git remote add origin https://github.com/<username>/<Repository Name>.git
+>> git branch -M main
+>> git push -u origin main
+
+5. Login to heroku and create new app.
+
+6. connect the repository with heroku.
+
+7. Click on manual deploy and run the app.
