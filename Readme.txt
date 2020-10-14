@@ -1,3 +1,9 @@
+Requirements:
+
+1. Node JS should be installed.
+
+2. Any editor with terminal(VS Code preferred)
+
 Steps to deploy on linux based server
 
 1. Download the Source code as ZIP and extract using Winrar.
