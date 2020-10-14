@@ -29,7 +29,7 @@ Steps to deploy on Heroku Server
 3. Make commits. --git commit -m "m"
 
 4. Create repository in your github and push the data. 
-git remote add origin https://github.com/<username>/<Repository Name>.git
+git remote add origin https://github.com/<username>/<Repository-Name>.git
 >> git branch -M main
 >> git push -u origin main
 
